@@ -1,0 +1,7 @@
+- 👋 Hi, I’m kale vaishnavi
+- 👀 I’m interested in python, machine learning, deep learning, aeronautics (avionics), aviation.
+- l completed BSc. Aeronautics (Avionics), in 2022 with 9.35 CGPA from HAL- Pravara Aviation Institute.
+- Currently studying Aircraft Maintenance Engineering (Avionics-B2) at HAL- Pravara Aviation Institute.
+- Trainee Coder at Coder's Ready
+- 📫 Mail ID- vaisnavikale7337@gmail.com
+- Linkedin ID- Vaishnavi Kale
